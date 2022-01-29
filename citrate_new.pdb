@@ -1,0 +1,24 @@
+TITLE       citrate_new                     
+REMARK   4
+REMARK   4      COMPLIES WITH FORMAT V. 2.2, 16-DEC-1996
+REMARK   6  created by ArgusLab version 4.0.1
+REMARK   6  http://www.arguslab.com
+REMARK   6
+ATOM      1 C1   CIT A 379     -22.008  57.864 100.862                       C
+ATOM      2 O1   CIT A 379     -21.236  57.948 101.789                       O
+ATOM      3 O2   CIT A 379     -22.316  58.968 100.207                       O
+ATOM      4 C2   CIT A 379     -22.661  56.612 100.414                       C
+ATOM      5 C3   CIT A 379     -21.741  55.318 100.383                       C
+ATOM      6 O7   CIT A 379     -20.365  55.401 100.793                       O
+ATOM      7 C4   CIT A 379     -22.404  54.020 100.157                       C
+ATOM      8 C5   CIT A 379     -22.543  53.819  98.658                       C
+ATOM      9 O3   CIT A 379     -23.124  54.692  98.006                       O
+ATOM     10 O4   CIT A 379     -22.418  52.653  98.215                       O
+ATOM     11 C6   CIT A 379     -22.117  55.018 101.951                       C
+ATOM     12 O5   CIT A 379     -21.261  54.556 102.769                       O
+ATOM     13 O6   CIT A 379     -23.292  55.215 102.396                       O
+ATOM     14 H    CIT A 379     -23.504  56.445 101.100                       H
+ATOM     15 H    CIT A 379     -23.045  56.812  99.403                       H
+ATOM     16 H    CIT A 379     -19.720  55.015  99.990                       H
+ATOM     17 H    CIT A 379     -23.394  54.030 100.636                       H
+ATOM     18 H    CIT A 379     -21.792  53.219 100.596                       H
